@@ -1,13 +1,14 @@
 # friendsbook(a social networking site )
 
 ## Authors
-* Arya Panja
-    * Email <aryapanja2000@gmail.com>
-    * Github [@aryapanja](https://github.com/aryapanja "Arya's github")
-
+## Authors
 * Arunava Das
     * Email <arunavadas002@gmail.com>
     * Github [@arunavadas](https://github.com/Arunava2002 "Arunava's github")
+    
+* Arya Panja
+    * Email <aryapanja2000@gmail.com>
+    * Github [@aryapanja](https://github.com/aryapanja "Arya's github")
     
 ## Website Objective
 This is an implementation of a social networking website where users can stay connected with their friends, chat with them, share posts like status and images. This website is built on jsp(backend) and html/css/javascript(frontend)
